@@ -1,3 +1,10 @@
+Coding_Samurai
+
+Task 1: EDA of Airbnb Listings
+
+Libraries used: pandas,matplotlib,seaborn,Numpy,sklearn. Dataset is avaliable in the documentation.
+
+
 Data Insights Report
 
 Introduction: In this report, we present insights derived from an analysis of a dataset related to property listings. The dataset was subjected to thorough cleaning and exploratory analysis to extract meaningful findings.
